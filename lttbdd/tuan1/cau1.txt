@@ -1,0 +1,4 @@
+1. Mong muốn và định hướng của bạn là gì sau khi học xong môn học?
+
+- Sau khi hoàn thành môn học, em mong muốn nắm vững các kiến thức cơ bản về quy trình phát triển một ứng dụng di động — từ ý tưởng, thiết kế giao diện đến cách ứng dụng hoạt động bên trong. Mục tiêu của em là hiểu được cơ chế vận hành của một ứng dụng chứ không nhất thiết trở thành người lập trình chuyên sâu.
+- Về định hướng sau khi học xong, em không hướng đến việc làm lập trình viên chuyên sâu, mà muốn sử dụng kiến thức từ môn học để hỗ trợ cho các vị trí như phân tích nghiệp vụ, kiểm thử hoặc các công việc liên quan trong lĩnh vực CNTT.
