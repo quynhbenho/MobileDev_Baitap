@@ -19,14 +19,13 @@ import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.text.input.VisualTransformation
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.dataflow.R // <-- Đảm bảo R import đúng package của bro
+import com.example.dataflow.R
 
-// 1. Logo
 @Composable
 fun HeaderLogo() {
     Column(horizontalAlignment = Alignment.CenterHorizontally) {
         Image(
-            painter = painterResource(id = R.drawable.anh1), // Thay ảnh logo của bro
+            painter = painterResource(id = R.drawable.anh1),
             contentDescription = "Logo",
             modifier = Modifier.size(120.dp)
         )
@@ -40,7 +39,7 @@ fun HeaderLogo() {
     }
 }
 
-// 2. Nút Back (QUAN TRỌNG: Xử lý sự kiện click ở đây)
+// 2. Nút Back
 @Composable
 fun BackButton(onClick: () -> Unit) {
     IconButton(

@@ -10,11 +10,8 @@ import com.example.dataflow.screen.*
 fun AppNavGraph(navController: NavHostController) {
     NavHost(
         navController = navController,
-        startDestination = Routes.FORGET // <--- QUAN TRỌNG: Chạy thẳng vào màn nhập Email
+        startDestination = Routes.FORGET
     ) {
-        // --- XÓA CÁC DÒNG CỦA SPLASH VÀ ONBOARDING ĐI ---
-
-        // Chỉ giữ lại các màn hình sau:
 
         composable(Routes.FORGET) {
             ForgetPasswordScreen(navController)

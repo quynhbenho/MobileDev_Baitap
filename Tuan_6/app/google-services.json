@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "652565595974",
+    "project_id": "auuth-fe04e",
+    "storage_bucket": "auuth-fe04e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652565595974:android:3599fbbf715b182aaf0747",
+        "android_client_info": {
+          "package_name": "com.example.flowlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652565595974-fugk5l51h9t76jaafjhomv2gd7t622iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flowlogin",
+            "certificate_hash": "83d87329225705a71319b9d56d02a54a5084363a"
+          }
+        },
+        {
+          "client_id": "652565595974-2ac2j02pat2ifpk2etqk0qkom843j0t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtkqfyMb5m7OoPgp_v-IaG4iRQlCa4RZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652565595974-2ac2j02pat2ifpk2etqk0qkom843j0t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

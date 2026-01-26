@@ -69,7 +69,7 @@ fun ForgetPasswordScreen(navController: NavController) {
         MainButton(text = "Next") {
             // Logic kiểm tra lỗi
             if (email.isBlank()) {
-                errorMessage = "Email không hợp lệ"
+                errorMessage = "Bạn chưa nhâp Email"
             } else if (!email.contains("@")) {
                 errorMessage = "Email không đúng định dạng"
             } else {
